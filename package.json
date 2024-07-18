@@ -1,0 +1,9 @@
+{
+  "name": "pino-fluentd",
+  "main": "index.js",
+  "dependencies": {
+    "@fluent-org/logger": "^1.0.10",
+    "pino-abstract-transport": "^1.2.0"
+  },
+  "type": "module"
+}
